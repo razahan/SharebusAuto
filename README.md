@@ -4,7 +4,7 @@
   Exam Executed by: R. Rashed Zahan
 ``` 
 ## Instructions
-Use Selenium WebDriver to Automate the following scenario:
+Used Selenium WebDriver to Automate the following scenario:
 
 1. Visit the given URL: https://test.sharebus.co/
 2. Navigate to LoginPage by clicking "Sign in" button
