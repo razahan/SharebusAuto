@@ -23,7 +23,7 @@ Used Selenium WebDriver to Automate the following scenario:
 15. Click on the "my busses" from navbar
 16. Verify that the new Trip is displayed on the "My busses" page
 
-## Following these notes:
+## Notes:
 
 - Use Page Object Modal(POM) design pattern
 - Use Java programming language
